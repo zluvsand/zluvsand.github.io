@@ -1,4 +1,4 @@
-*This repository is a fork from [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) although the fork history is not visible. I am extremely grateful to the wonderful work done by :sparkles: Bootstrap team :sparkles:.*
+*This repository is a clone from [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) although the fork history is not visible. I am extremely grateful to the wonderful work done by :sparkles: Bootstrap team :sparkles:.*
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/themes/resume/)
 
